@@ -8,12 +8,12 @@ subdomainsapp.github.io/yoursitehere (not a link right now.)
 2. Add an index.html in your folder (and add content)
 3. Create a manifest.txt inside of the folder formatted like so:
 
-{
+ { <br>
 subdomain: yoursubdomain
-index: index.html
-email: your@email.here
-owner.ghuser: yourgithubuserhere
-}
+index: index.html <br>
+email: your@email.here <br>
+owner.ghuser: yourgithubuserhere <br>
+} 
 
 4. Now make a Pull request, and it will be reviewed and most likely accepted, after a review to make sure you did all the steps.
 5. Now wait for it to be accepted.
